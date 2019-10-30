@@ -9,11 +9,11 @@ namespace CA_TheConversation
     class Program
     {
         // *************************************************************
-        // Application:     The Conversation Starter Solution
-        // Author:          Velis, John E
-        // Description:     Start solution for the project.
-        // Date Created:    5/20/2016
-        // Date Revised:    7/7/2016
+        // Application:     The Conversation
+        // Author:          [student name]
+        // Description:     [description of the application]
+        // Date Created:    [date created]
+        // Date Revised:    [date of last update]
         // *************************************************************
 
         static void Main(string[] args)
